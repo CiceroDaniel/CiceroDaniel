@@ -96,7 +96,7 @@ Experiência em arquitetura limpa e aplicações cloud-native.
 
 ## 📫 Contato
 <div align="center" style="margin-top: 30px;">
-  <a href="mailto:seu@email.com">
+  <a href="mailto:cicero.santos@aluno.ufca.edu.br">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
   <a href="https://linkedin.com/in/seuperfil">
