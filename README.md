@@ -3,21 +3,17 @@
   <h1>🚀 Desenvolvedor Backend</h1>
   <div>
     <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+    //<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
     <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java">
     <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
     <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+    //<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
     <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS">
   </div>
 </div>
 
 ---
-<div align="center" style="background: linear-gradient(45deg, #1e3c72, #2a5298); padding: 20px; border-radius: 10px; margin: 20px 0;">
-  <h1 style="color: white; margin: 0;">Backend Developer</h1>
-  <p style="color: #f8f9fa; margin: 10px 0 0;">Especialista em APIs escaláveis e arquitetura de microsserviços</p>
-</div>
----
+
 ## 📌 Sobre Mim
 <p align="justify">
 Desenvolvedor backend especializado em sistemas de alta performance, APIs e otimização de bancos de dados. 
