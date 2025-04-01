@@ -13,7 +13,11 @@
 </div>
 
 ---
-
+<div align="center" style="background: linear-gradient(45deg, #1e3c72, #2a5298); padding: 20px; border-radius: 10px; margin: 20px 0;">
+  <h1 style="color: white; margin: 0;">Backend Developer</h1>
+  <p style="color: #f8f9fa; margin: 10px 0 0;">Especialista em APIs escaláveis e arquitetura de microsserviços</p>
+</div>
+---
 ## 📌 Sobre Mim
 <p align="justify">
 Desenvolvedor backend especializado em sistemas de alta performance, APIs e otimização de bancos de dados. 
