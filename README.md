@@ -80,7 +80,7 @@ Experiência em arquitetura limpa e aplicações.
   
   <div style="border: 1px solid #e1e4e8; border-radius: 6px; padding: 15px;">
     <h3>📦 Sistema de Academia</h3>
-    <p>Descrição breve do projeto</p>
+    <p>O THUNDERFIT é uma solução tecnológica completa desenvolvida para modernizar e otimizar a administração de academias de pequeno e médio porte. Nosso sistema integra todas as operações essenciais em uma única plataforma intuitiva.</p>
     <a href="#"><img src="https://img.shields.io/badge/Código-Ver%20Repositório-blue?style=flat-square"></a>
   </div>
   
