@@ -14,8 +14,8 @@
 
 ## 📌 Sobre Mim
 <p align="justify">
-Desenvolvedor backend especializado em sistemas de alta performance, APIs e otimização de bancos de dados. 
-Experiência em arquitetura limpa e aplicações cloud-native.
+Desenvolvedor backend especializado em sistemas NodeJs de alta performance, APIs e otimização de bancos de dados. 
+Experiência em arquitetura limpa e aplicações.
 </p>
 
 ## 🎓 Formação e Certificações
@@ -24,8 +24,8 @@ Experiência em arquitetura limpa e aplicações cloud-native.
   <div style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 15px;">
     <h4>📚 Formação Acadêmica</h4>
     <ul style="margin-top: 10px;">
-      <li><strong>Análise e Desenvolvimento de Sistemas</strong><br>
-      Universidade XYZ • 2020-2023</li>
+      <li><strong>Matemática Computacional</strong><br>
+      Universidade Federal do Cariri • 2024 - 20XX</li>
     </ul>
   </div>
 
@@ -43,9 +43,7 @@ Experiência em arquitetura limpa e aplicações cloud-native.
     <h4>🏆 Certificações</h4>
     <ul style="margin-top: 10px;">
       <li><strong>AWS Certified Developer</strong><br>
-      Amazon Web Services • 2023 • <a href="#">Ver credencial</a></li>
-      <li><strong>Scrum Master Certified</strong><br>
-      Scrum.org • 2022</li>
+      Amazon Web Services • 2022 • <a href="#">Ver credencial</a></li>
     </ul>
   </div>
 </div>
@@ -81,13 +79,13 @@ Experiência em arquitetura limpa e aplicações cloud-native.
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 15px;">
   
   <div style="border: 1px solid #e1e4e8; border-radius: 6px; padding: 15px;">
-    <h3>📦 API de Microsserviços</h3>
+    <h3>📦 Sistema de Academia</h3>
     <p>Descrição breve do projeto</p>
     <a href="#"><img src="https://img.shields.io/badge/Código-Ver%20Repositório-blue?style=flat-square"></a>
   </div>
   
   <div style="border: 1px solid #e1e4e8; border-radius: 6px; padding: 15px;">
-    <h3>🔐 Serviço de Autenticação</h3>
+    <h3>🔐 Serviço de Agendamento de Mesas pra Restaurante</h3>
     <p>Descrição breve do projeto</p>
     <a href="#"><img src="https://img.shields.io/badge/Código-Ver%20Repositório-blue?style=flat-square"></a>
   </div>
