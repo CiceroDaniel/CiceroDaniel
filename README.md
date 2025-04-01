@@ -58,7 +58,6 @@ Experiência em arquitetura limpa e aplicações cloud-native.
     <h4>🔹 Principais</h4>
     <ul style="margin-top: 5px;">
       <li>Node.js/Express</li>
-      <li>Python/Django</li>
     </ul>
   </div>
   
@@ -70,13 +69,6 @@ Experiência em arquitetura limpa e aplicações cloud-native.
     </ul>
   </div>
   
-  <div style="background: #f8f9fa; padding: 15px; border-radius: 8px;">
-    <h4>🔹 DevOps</h4>
-    <ul style="margin-top: 5px;">
-      <li>Docker</li>
-      <li>Kubernetes</li>
-    </ul>
-  </div>
 </div>
 
 ## 📈 Estatísticas do GitHub
