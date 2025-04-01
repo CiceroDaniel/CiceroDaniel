@@ -1,61 +1,120 @@
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=120&section=header"/>
+<!-- CABEÇALHO PRINCIPAL -->
+<div align="center">
+  <h1>🚀 Desenvolvedor Backend</h1>
+  <div>
+    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+    <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java">
+    <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
+    <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+    <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS">
+  </div>
+</div>
 
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1E90FF&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Cícero+Daniel+Barbosa+dos+Santos;Tenho+19+anos;Moro+em+Mauriti+-+CE;Sou+técnico+em+Informática;Hoje+trabalho+com+Front-end+💻+e+Back-end+🖥;Seja+bem+vindo+ao+meu+perfil+:%29)](https://git.io/typing-svg)
+---
 
+## 📌 Sobre Mim
+<p align="justify">
+Desenvolvedor backend especializado em sistemas de alta performance, APIs e otimização de bancos de dados. 
+Experiência em arquitetura limpa e aplicações cloud-native.
+</p>
 
-  <div align="center">  
-    <img width="auto" height="195px" src="https://github-readme-stats.vercel.app/api?username=CiceroDaniel&show_icons=true&count_private=true&hide_border=true&title_color=1E90FF&icon_color=1E90FF&text_color=c9d1d9&bg_color=0d1117" alt="DANIEL B. DEV github stats" /><br>
-    <img width="auto" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CiceroDaniel&layout=compact&hide_border=true&title_color=1E90FF&text_color=c9d1d9&bg_color=0d1117" />
+## 🎓 Formação e Certificações
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 15px; margin: 20px 0;">
+
+  <div style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 15px;">
+    <h4>📚 Formação Acadêmica</h4>
+    <ul style="margin-top: 10px;">
+      <li><strong>Análise e Desenvolvimento de Sistemas</strong><br>
+      Universidade XYZ • 2020-2023</li>
+    </ul>
   </div>
 
-  ![Contribution](https://activity-graph.herokuapp.com/graph?username=CiceroDaniel&theme=github-dark&hide_border=true&area=true)
+  <div style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 15px;">
+    <h4>📝 Cursos Relevantes</h4>
+    <ul style="margin-top: 10px;">
+      <li><strong>Node.js Avançado</strong><br>
+      Alura • 2023 • <a href="#">Ver certificado</a></li>
+      <li><strong>Arquitetura de Microsserviços</strong><br>
+      Udemy • 2022 • <a href="#">Ver certificado</a></li>
+    </ul>
+  </div>
 
+  <div style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 15px;">
+    <h4>🏆 Certificações</h4>
+    <ul style="margin-top: 10px;">
+      <li><strong>AWS Certified Developer</strong><br>
+      Amazon Web Services • 2023 • <a href="#">Ver credencial</a></li>
+      <li><strong>Scrum Master Certified</strong><br>
+      Scrum.org • 2022</li>
+    </ul>
+  </div>
+</div>
 
-
-### Ola! Sou o Daniel Barbosa (Daniel B. DEV)
-
-- 🖥 Hoje trabalho com Front-end e Back-end
-- 📚 Estudando Nodejs, Bootstrap, MongoDB e PostgreSQL
-
-#### LINGUAGENS
-
-  <div style="display: inline_block">
-    <img align="center" alt="Dani-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" alt="Dani-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" alt="Dani-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" alt="Dani-NODEJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-    <img align="center" alt="Dani-EXPRESS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
-    <img align="center" alt="Dani-HANBLEBARS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/handlebars/handlebars-original.svg" />
+## 🛠 Tecnologias
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: 10px; margin: 20px 0;">
+  
+  <div style="background: #f8f9fa; padding: 15px; border-radius: 8px;">
+    <h4>🔹 Principais</h4>
+    <ul style="margin-top: 5px;">
+      <li>Node.js/Express</li>
+      <li>Python/Django</li>
+    </ul>
   </div>
   
-#### BANCOS DE DADOS
-
-  <div style="display: inline_block">
-    <img align="center" alt="Dani-MONGODB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
-    <img align="center" alt="Dani-MYSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-    <img align="center" alt="Dani-POSTGRESQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+  <div style="background: #f8f9fa; padding: 15px; border-radius: 8px;">
+    <h4>🔹 Bancos de Dados</h4>
+    <ul style="margin-top: 5px;">
+      <li>PostgreSQL</li>
+      <li>MongoDB</li>
+    </ul>
   </div>
   
-#### FERRAMENTAS
+  <div style="background: #f8f9fa; padding: 15px; border-radius: 8px;">
+    <h4>🔹 DevOps</h4>
+    <ul style="margin-top: 5px;">
+      <li>Docker</li>
+      <li>Kubernetes</li>
+    </ul>
+  </div>
+</div>
 
-  <div style="display: inline_block">
-    <img align="center" alt="Dani-BOOTSTRAP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
-    <img align="center" alt="Dani-VSCODE" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
-    <img align="center" alt="Dani-INKSCAPE" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/inkscape/inkscape-original.svg" />
-    <img align="center" alt="Dani-FIGMA" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
-    <img align="center" alt="Dani-CANVA" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" />
-    <img align="center" alt="Dani-TRELLO" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" />
+## 📈 Estatísticas do GitHub
+<div align="center" style="margin: 20px 0;">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=CIceroDaniel&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Estatísticas">
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CIceroDaniel&layout=compact&theme=radical&hide_border=true" alt="Linguagens">
+  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=CIceroDaniel&theme=radical&hide_border=true" alt="Contribuições">
+</div>
+
+## 🏆 Projetos Recentes
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 15px;">
+  
+  <div style="border: 1px solid #e1e4e8; border-radius: 6px; padding: 15px;">
+    <h3>📦 API de Microsserviços</h3>
+    <p>Descrição breve do projeto</p>
+    <a href="#"><img src="https://img.shields.io/badge/Código-Ver%20Repositório-blue?style=flat-square"></a>
   </div>
   
-##
-
-  <div align="center">
-    <a href="##" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-    <a href="##" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">         </a>
-  	<a href="##" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
-    <a href="##" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-    <a href = "mailto:danielbarbos92@@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-    <a href="https://www.linkedin.com/in/daniel-b-dos-santos-b13209252" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <div style="border: 1px solid #e1e4e8; border-radius: 6px; padding: 15px;">
+    <h3>🔐 Serviço de Autenticação</h3>
+    <p>Descrição breve do projeto</p>
+    <a href="#"><img src="https://img.shields.io/badge/Código-Ver%20Repositório-blue?style=flat-square"></a>
   </div>
-  
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=120&section=footer"/>
+</div>
+
+## 📫 Contato
+<div align="center" style="margin-top: 30px;">
+  <a href="mailto:seu@email.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://linkedin.com/in/seuperfil">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+</div>
+
+---
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=CIceroDaniel&label=Visualizações&color=0e75b6&style=flat" alt="Visualizações">
+  <p>⚡ Alimentado por código limpo e cafeína</p>
+</div>
