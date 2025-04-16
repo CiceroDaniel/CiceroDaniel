@@ -33,9 +33,9 @@ Experiência em arquitetura limpa e aplicações.
     <h4>📝 Cursos Relevantes</h4>
     <ul style="margin-top: 10px;">
       <li><strong>Node.js Avançado</strong><br>
-      Alura • 2023 • <a href="#">Ver certificado</a></li>
-      <li><strong>Arquitetura de Microsserviços</strong><br>
-      Udemy • 2022 • <a href="#">Ver certificado</a></li>
+      Dio.me • 2023 • <a href="#">Ver certificado</a></li>
+      <li><strong>Arquitetura de software</strong><br>
+      Aprenda+ • 2022 • <a href="#">Ver certificado</a></li>
     </ul>
   </div>
 
